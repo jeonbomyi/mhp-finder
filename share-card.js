@@ -180,7 +180,7 @@ const shareDetailHtml = isSinglePrimary && considerKeys.length
           class="mhShareLogoImg"
           src="${SHARE_CARD_LOGO_PATH}"
           alt="한국임상심리사협회(KOCPA)"
-          onerror="this.replaceWith(Object.assign(document.createElement('div'), { className: 'mhShareLogoText', textContent: '한국임상심리전문가협회(KOCPA)' }))"
+          onerror="this.replaceWith(Object.assign(document.createElement('div'), { className: 'mhShareLogoText', textContent: '한국임상심리사협회(KOCPA)' }))"
         >
       </footer>
     </div>
